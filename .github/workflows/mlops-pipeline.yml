@@ -59,4 +59,5 @@ jobs:
           git add k8s/inference.yaml
           git commit -m "Update model S3 path [skip ci]" || echo "No changes"
           git push || echo "No changes to push"
-        
+
+#

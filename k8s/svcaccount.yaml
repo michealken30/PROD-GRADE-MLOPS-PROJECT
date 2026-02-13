@@ -19,4 +19,4 @@ metadata:
   name: sa-s3-access
   namespace: churn-model
 secrets:
-- name: s3-secet
+- name: s3-secret
